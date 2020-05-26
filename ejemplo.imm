@@ -1,0 +1,16 @@
+Proc nombre()%metodo sin parametro
+{
+s1:cadena$
+Impresion("Ingrese su nombre")$
+Lectura(#s1)$
+Impresion("su nombre es",s1)$
+int1=5+8*3$
+real1=int1/1.23$
+}
+
+Proc cuadrado(b:entero)%metodo con parametro
+{
+c:entero$
+c=b*b$
+Impresion("El cuadrado de",b,"es ",c)$
+}

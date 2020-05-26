@@ -1,0 +1,16 @@
+<Errores>
+     <Lexicos>
+     </lexicos> 
+</errores>
+
+hola
+
+hola
+
+hola
+
+hola
+ejemplo
+hola
+ejemplo_Err.xml
+hola
